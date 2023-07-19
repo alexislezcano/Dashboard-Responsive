@@ -1,0 +1,110 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: #2b2d31;
+}
+
+/*Nav*/
+nav {
+    background-color: #2b2d31;
+    
+}
+
+.bg-nav{
+    background-color: #2b2d31;
+    color: aliceblue;
+}
+
+.bg-logo {
+    background-color: #2b2d31;
+}
+
+li{
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    font-size: smaller;
+}
+
+/*Input buscador*/
+#bg-search {
+    background-color: rgba(131, 131, 131, 1);
+}
+
+/*Icon close*/
+.container-fluid svg {
+    width: 1.2rem;
+    height: 1.2rem;
+    color: white;
+}
+
+/*Icon li*/
+.container-svg svg {
+    width: 1rem;
+    height: 1rem;
+    color: white;
+}
+
+nav a:hover {
+    background-color: #D92B05;
+    border-radius: 5px;
+}
+
+/*Icon close*/
+#id-nav {
+    background-color: #2b2d31;
+    border-color: #2b2d3100;
+    border-radius: 5px;
+
+}
+
+/*Search*/
+.navefect{
+    background-color: #2b2d31;
+    border-color:#fefefe;
+    border-radius: 5px;
+}
+
+.navefect:hover {
+    border-bottom: #D92B05;
+    background-color: #D92B05;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.active {
+    background-color: #D92B05;
+    border-radius: 5px;
+}
+
+.navbar-nav .nav-link {
+    margin: 2px;
+}
+
+
+
+/*Main*/
+
+.margin-h1 {
+    margin-top: 5rem;
+}
+
+h2 {
+    color: #D92B05;
+}
+
+
+.accordion-button::after {
+    border-radius: 3px;
+    background: white;
+}
+
+.border-dash {
+    border-radius: 20px;
+    background-color: #2b2d31 ;
+}
